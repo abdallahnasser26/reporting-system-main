@@ -225,10 +225,17 @@ For production deployment:
 ## License
 
 This project is licensed under the MIT License  
-
 > [!NOTE]   
 > Remember to update the `.env.example` file with your actual configuration and never commit sensitive information to version control.
 
+## Author
+
+**Abdallah Nasser**  
+Data Analyst | Computer Science Student
+
+- LinkedIn: [Abdallah Nasser](https://linkedin.com/in/abdallah-naser-75345a327)
+- GitHub: [abdallahnasser26](https://github.com/abdallahnasser26)
+- Phone: 01123117882
 <!--
 keywords: n8n workflows, n8n automation, n8n examples, n8n templates, no-code automation, telegram bot workflows, openai n8n, webhook automation, best proyect, creative repo, awesome, star repo
 -->
